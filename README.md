@@ -18,20 +18,5 @@ Analyse de la plateforme
 AudiTool est un logiciel corporatif qui aide à contrôler tout le processus d’audit qui a pour 
 but de remplacer la prise de note sous tableur, pour mettre en commun les notes d’audit et 
 pour générer automatiquement les rapports d’audit.
-Page 16
-Conception et réalisation d’une application
-De gestion des audits
-Dans cette partie nous allons dégager les avantages et les inconvénients de la plateforme.
-Tableau 4 : Points forts/faibles AudiTool
- Points forts Points faibles
-Automatisation de tout le processus d’audit Absence des statistiques automatiques
-Automatisation de la génération des rapports 
-d’audit
-Pas de possibilité d’auditer d’autres 
-exigences non incluses dans les standards 
-Ajout des standards via des importations 
-Absence de la possibilité de gestion des 
-permissions des utilisateurs 
-Accès hors ligne Pas de gestion de traçabilité sur le site 
-Pas d’extension mobile 
-Figure 3 : Page d'accueil site AudiToo
+
+
