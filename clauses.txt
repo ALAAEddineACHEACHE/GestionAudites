@@ -1,0 +1,3 @@
+6;clause1;ISO 9001
+7;Clause2;ISO 14001
+8;Clause spéciale;ISO 14001
