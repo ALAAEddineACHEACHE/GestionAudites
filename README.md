@@ -9,7 +9,7 @@ les limites et lacunes des applications existantes.
 L’étude de l’existant est une étape préliminaire pour tout projet informatique, en vue de 
 pallier les problèmes et les anomalies et d’apporter les corrections et les améliorations 
 nécessaires aux procédures existantes.
-+Dans le cadre de ce projet, nous avons choisi un 
++ Dans le cadre de ce projet, nous avons choisi un 
 principal module pour étudier ce qui existe déjà 
 Etude critique des plateformes concurrentes
 Dans cette partie nous nous intéressons à l’étude d’une plateforme similaire à la nôtre. La 
